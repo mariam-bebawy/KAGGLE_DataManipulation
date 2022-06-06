@@ -8,9 +8,9 @@ Kaggle learning resources and tasks
 1. [Creating, Reading and Writing](./03-01_creating-reading-and-writing.ipynb)
 2. [Indexing, Selecting & Assigning](./03-02_indexing-selecting-assigning.ipynb)
 3. [Summary Functions and Maps](./03-03_summary-functions-and-maps.ipynb)
-4. [Grouping and Sorting]()
-5. [Data Types and Missing Values]()
-6. [Renaming and Combining]()
+4. [Grouping and Sorting](./03-04_grouping-and-sorting.ipynb)
+5. [Data Types and Missing Values](./03-05_data-types-and-missing-values.ipynb)
+6. [Renaming and Combining](./03-06_renaming-and-combining.ipynb)
 
 ***
 ### Certificate:
